@@ -63,8 +63,7 @@ Certifications
 
 Internship
 --------
-**Web Development**
-
+**Web Development**  
 ByProduct Ventures LLP
 
 Interests
