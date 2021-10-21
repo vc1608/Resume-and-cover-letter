@@ -1,8 +1,13 @@
 Vishal Chauhan
 ======
 
-###### +91 9483702063        ###### vishalc1608@gmail.com
+###### +91 9483702063
+###### vishalc1608@gmail.com
 
+
+
+term
+: definition
 
 Education
 ---------
