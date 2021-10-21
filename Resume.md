@@ -55,10 +55,10 @@ Projects
 Certifications
 ------
 **Build Your First Android App** 
-- Certificate: coursera.org/verify/SUGCH2LKA5NT
+- **Certificate:** coursera.org/verify/SUGCH2LKA5NT
 
 **Build a Full Website using WordPress** 
-- Certificate: coursera.org/verify/4YCULWTY9EKU
+- **Certificate:** coursera.org/verify/4YCULWTY9EKU
 
 
 Internship
