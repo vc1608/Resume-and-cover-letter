@@ -23,13 +23,14 @@ Skills
 - WordPress
 
 
-Certifications
-------
-**Build Your First Android App** 
-- Certificate: coursera.org/verify/SUGCH2LKA5NT
-
-**Build a Full Website using WordPress** 
-- Certificate: coursera.org/verify/4YCULWTY9EKU
+Strengths
+---------
+- Fast Learner
+- Fluency in English
+- Teamwork
+- Communication
+- Problem Solving
+- Project Management
 
 
 Projects
@@ -51,8 +52,24 @@ Projects
 - It evaluates various text messages, comments and classify them as positive, negative or neutral. It can be used by different organizations that wish to acquire reaction of their customers on a specific topic or their reviews for a product. It supports classification of text of multiple languages.
 
 
+Certifications
+------
+**Build Your First Android App** 
+- Certificate: coursera.org/verify/SUGCH2LKA5NT
+
+**Build a Full Website using WordPress** 
+- Certificate: coursera.org/verify/4YCULWTY9EKU
+
+
 Internship
 --------
 **Web Development**
 
 ByProduct Ventures LLP
+
+Interests
+---------
+- Technology
+- Video Games
+- Travelling
+
