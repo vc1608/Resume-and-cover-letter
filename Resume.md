@@ -13,7 +13,7 @@ Education
 
 Skills
 ---------
-- C
+- C  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   - C++
 - C++
 - Java
 - Python
