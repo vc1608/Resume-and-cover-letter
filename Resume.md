@@ -3,14 +3,14 @@ Vishal Chauhan
 
 ###### +91 9483702063
 ###### vishalc1608@gmail.com
-\
+<br/>
 
 Education
 ---------
 **Bachelor of Engineering at CMR Institute of Technology, Bangalore** (2017-2021)
 
 - Information Science & Engineering 
-\
+<br/>
 
 Skills
 ---------
@@ -22,7 +22,7 @@ Skills
 - CSS
 - JavaScript
 - WordPress
-\
+<br/>
 
 Certifications
 ------
@@ -31,7 +31,7 @@ Certifications
 
 **Build a Full Website using WordPress** 
 - Certificate: coursera.org/verify/4YCULWTY9EKU
-\
+<br/>
 
 Projects
 ------
@@ -50,7 +50,7 @@ Projects
 **Social Media Sentiment Analysis using Machine Learning**
 
 - It evaluates various text messages, comments and classify them as positive, negative or neutral. It can be used by different organizations that wish to acquire reaction of their customers on a specific topic or their reviews for a product. It supports classification of text of multiple languages.
-\
+<br/>
 
 Internship
 --------
