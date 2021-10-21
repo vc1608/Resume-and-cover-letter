@@ -6,15 +6,15 @@ vishalc1608@gmail.com
 22 October 2021
 <br/>
 
-Ontum Education Private Limited
-+91 63629 08766
+Ontum Education Private Limited  
++91 63629 08766  
 contact@ontum.com
 <br/>
 
-Dear Sir/Madam,
+Dear Sir/Madam,  
 fghg
 
 <br/>
 
-Thanks & Regards,
+Thanks & Regards,  
 Vishal Chauhan
