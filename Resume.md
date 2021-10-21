@@ -6,7 +6,7 @@ Vishal Chauhan
 
 Education
 ---------
-**Bachelor of Engineering at CMR Institute of Technology, Bangalore** (2017-2021)
+**Bachelor of Engineering, CMR Institute of Technology, Bangalore** (2017-2021)
 
 - Information Science & Engineering 
 
