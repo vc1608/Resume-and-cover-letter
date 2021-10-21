@@ -15,6 +15,8 @@ Subject: Application for Software Graduate Trainee Position
 <br/>
 
 Dear Sir/Madam,  
+<br/>
+
 I am writing this letter to you to apply for the position of Software Graduate Trainee in your company. I came across the position via college placements and wanted to apply for the same.
 <br/>
 
