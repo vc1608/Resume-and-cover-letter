@@ -20,7 +20,7 @@ Dear Sir/Madam,
 I am writing this letter to you to apply for the position of Software Graduate Trainee in your company. I came across the position via college placements and wanted to apply for the same.
 <br/>
 
-I have studied Bachelor of Engineering (B.E.) in Information Science & Engineering from CMR Institute of Technology, Bangalore. During my time, I also pursued online certificate cources in Android Development & Web Development using WordPress. I also recently completed a 2-month internship with ByProduct Ventures LLP on Web Development where I was given the task of updating the website with new theme and troubleshooting & resolving various issues or bugs in the website.
+I have studied Bachelor of Engineering (B.E.) in Information Science & Engineering from CMR Institute of Technology, Bangalore. During my time, I also pursued online certificate cources in Web Development using WordPress & Android Development. I also recently completed a 2-month internship with ByProduct Ventures LLP on Web Development where I was given the task of updating the website with new theme and troubleshooting & resolving various issues or bugs in the website.
 <br/>
 
 I am a good communicator, so I enjoy working in a team and producing results as a part of the team. I also enjoy working independently as and when required of me. I'm a fast learner with good problem solving and project management skills. I truly believe that working at your company will be an exciting and enriching experience.
