@@ -1,14 +1,15 @@
 Vishal Chauhan
 ======
 
-#### [ [ vishalc1608@gmail.com ] . [ +91 9483702063 ]
+#### +91 9483702063
+#### vishalc1608@gmail.com
 
 
 Education
 ---------
 **Bachelor of Engineering at CMR Institute of Technology, Bangalore** (2017-2021)
 
-Information Science & Engineering 
+- Information Science & Engineering 
 
 
 Skills
@@ -51,4 +52,5 @@ Projects
 Internship
 --------
 **Web Development**
+
 ByProduct Ventures LLP
