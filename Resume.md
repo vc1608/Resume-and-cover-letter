@@ -7,8 +7,13 @@ Vishal Chauhan
 Education
 ---------
 **Bachelor of Engineering (B.E.) in Information Science & Engineering** (2017-2021)  
-CMR Institute of Technology, Bangalore
+CMR Institute of Technology, Bengaluru  
 
+**Class XII** (PCMC)  
+Kendriya Vidyalaya ASC Centre, Bengaluru  
+
+**Class X**  
+Kendriya Vidyalaya ASC Centre, Bengaluru  
 
 Skills
 ---------
@@ -70,4 +75,3 @@ Interests
 - Technology
 - Video Games
 - Travelling
-
